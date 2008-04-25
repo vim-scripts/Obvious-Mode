@@ -2,7 +2,7 @@
 " StatusLine highlight group.
 "
 " Brian Lewis <brian@lorf.org>
-" 1.2 2008.04.24
+" 1.21 2008.04.25
 "
 " Thank you:
 "   frogonwheels @ freenode #vim
@@ -11,7 +11,7 @@
 "
 " 1. Put obviousmode.vim in plugins/
 " 2. You probably want to
-"      let laststatus = 2
+"      set laststatus=2
 " 3. Optionally,
 "      let g:obviousModeInsertHi = 'your settings'
 "      let g:obviousModeCmdwinHi = 'your settings'
